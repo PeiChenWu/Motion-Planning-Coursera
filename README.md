@@ -1,1 +1,1 @@
-# Robotics Coursera
+# Robotics Motion Planning - Coursera
