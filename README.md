@@ -1,1 +1,1 @@
-# These are part of the homework coding problems from Coursera Robotics Certification
+# These are part of HW coding problems from Coursera Robotics Certification
